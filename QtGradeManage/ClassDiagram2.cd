@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="admin" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAACAAAAAAAAAEEAQACAAAAAgACBAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grade" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GradeList">
+    <Position X="8.5" Y="1.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAQAgACACAAAAAAAAAAAIBAAAQAAQAAAEAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QtGradeManage" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAEAABAAQgAAAAkAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>QtGradeManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="student_ui" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEAACEAAAAIAAAAAAAAAAAACIAAgAAAAAAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="admin_ui" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAIAAAAUAgAEgIAAAAhACAQEAAAAAQAIAgAAAAAAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tipDialog_ui" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oneInputDialog" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QcourseManage" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAEAAEAAAAAAAAEAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogForSearch" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAAEAEAAAAAAAAAAAAACAAIBAAACAAEAAA=</HashCode>
+      <FileName>otherUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="student" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAgAAAAAQAAAQAAAAAAAACAAAgAAAAAAA=</HashCode>
+      <FileName>data.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

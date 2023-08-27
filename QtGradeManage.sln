@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtGradeManage", "QtGradeManage\QtGradeManage.vcxproj", "{C6F683E4-878B-4EC3-904D-FAFB9DCE34A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F683E4-878B-4EC3-904D-FAFB9DCE34A6}.Debug|x64.ActiveCfg = Debug|x64
+		{C6F683E4-878B-4EC3-904D-FAFB9DCE34A6}.Debug|x64.Build.0 = Debug|x64
+		{C6F683E4-878B-4EC3-904D-FAFB9DCE34A6}.Release|x64.ActiveCfg = Release|x64
+		{C6F683E4-878B-4EC3-904D-FAFB9DCE34A6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03F4324-A9C8-4564-8C40-21CF6783C4CE}
+	EndGlobalSection
+EndGlobal
